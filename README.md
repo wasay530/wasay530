@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Wasay Sardar, from Pakistan. 
-- 👀 I’m interested in Computer Vision, NLP, Machine Learning, and Deep Learning.
+- 👀 I’m interested in AI, Machine Learning, Deep Learning, Computer Vision, and NLP.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (abdulwasaysardar789@gmail.com)
