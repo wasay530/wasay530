@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul Wasay Sardar, from Pakistan. 
+- 👋 Hi, I’m Abdul Wasay Sardar, from Ireland. 
 - 👀 I’m interested in FastAPI, Back-End, AI, Machine Learning, Deep Learning, Computer Vision, and NLP.
 - 📫 How to reach me (abdulwasaysardar789@gmail.com)
 
