@@ -3,12 +3,7 @@
 ### Researcher in AI & Federated Learning | University College Dublin
 **Dublin, Ireland** 🇮🇪
 
-I am a Computer Engineer with over 4 years of research experience specializing in **Artificial Intelligence**, **Computer Vision**, and **Deep Learning** applied to distributed systems. Currently, I am a Researcher at **UCD**, focusing on Federated Learning frameworks.
-
-- 🔭 I’m currently working on **Federated Label-Distribution-Aware Margin Learning** and **Human Activity Recognition**.
-- 👯 I’m looking to collaborate on **Open Source AI Projects** and **Computer Vision Research**.
-- 📫 How to reach me: **abdulwasaysardar789@gmail.com**
-- 👔 LinkedIn: [Abdul Wasay Sardar](https://www.linkedin.com/in/abdul-wasay-sardar-1b3b3b1b3/)
+I am a Computer Engineer with over 5 years of research experience specializing in **Artificial Intelligence**, **Computer Vision**, **NLP**, and **Deep Learning** applied to distributed systems. Currently, I am a Researcher at **UCD**, focusing on Federated Learning frameworks.
 
 ---
 
@@ -32,7 +27,6 @@ I am a Computer Engineer with over 4 years of research experience specializing i
 
 - **[Vital-Radar-Sensor-Vital-Sign-Monitoring-Project](https://github.com/wasay530/Vital-Radar-Sensor-Vital-Sign-Monitoring-Project)** - Vital Sign Monitoring Using Radar Sensor (Sense2GoL).
 - **[KAU-COVID19-AR-Dataset](https://github.com/wasay530/KAU-COVID19-AR-Dataset)** - Mobile Sensors Data collection for Human Physical Activities Recognition for COVID-19 spread minimization.
-- **[Cat-Dog-Classification-VGG16](https://github.com/wasay530/Cat-Dog-Classification-VGG16)** - Classifier using VGG16 architecture to implement Transfer Learning with Keras.
 - **[Human-Activity-Recognition](https://github.com/wasay530)** - *(Add link if available)* Developed mobile sensor-based platform for activity recognition.
 
 ### 📡 Distributed Systems & Mobile Networks
