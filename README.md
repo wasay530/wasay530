@@ -24,10 +24,9 @@ I am a Computer Engineer with over 5 years of research experience specializing i
 
 ### AI, Computer Vision & Healthcare
 *Projects focused on Deep Learning, detection, and medical applications.*
-
-- **[Vital-Radar-Sensor-Vital-Sign-Monitoring-Project](https://github.com/wasay530/Vital-Radar-Sensor-Vital-Sign-Monitoring-Project)** - Vital Sign Monitoring Using Radar Sensor (Sense2GoL).
+- **[NeuroPrognosis-AI: Multi-Modal Dementia Risk Assessment](https://github.com/wasay530/NeuroPrognosis-AI-Multi-Modal-Dementia-Risk-Assessment.git)** - A clinical decision-support framework utilizing Graph Theoretical Analysis (fMRI) and Spectral Power Density (EEG) to quantify network degradation associated with early-stage Dementia.
+- **[Fedearted-Learning-Human-Activity-Recognition](https://github.com/wasay530/Federated-vs-Centralized-Learning-Benchmark-for-Human-Activity-Recognition.git)** - Developed federated learning based platform for activity recognition.
 - **[KAU-COVID19-AR-Dataset](https://github.com/wasay530/KAU-COVID19-AR-Dataset)** - Mobile Sensors Data collection for Human Physical Activities Recognition for COVID-19 spread minimization.
-- **[Human-Activity-Recognition](https://github.com/wasay530)** - *(Add link if available)* Developed mobile sensor-based platform for activity recognition.
 
 ### Distributed Systems & Mobile Networks
 *Research on UAV communication, IoT, and Social Networks.*
